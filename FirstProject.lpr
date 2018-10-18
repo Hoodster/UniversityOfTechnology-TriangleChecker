@@ -21,7 +21,7 @@ end;
 
 function TriangleChecker(): boolean;
 begin
-  If (inputs[1] + inputs[2] > inputs[3]) Then
+  If (inputs[1] + inputs[2] >= inputs[3]) Then
      begin
        TriangleChecker := true;
      end

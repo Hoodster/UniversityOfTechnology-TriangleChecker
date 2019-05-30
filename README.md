@@ -12,4 +12,4 @@ Program asks for 3 numbers. Before checking triangle inequality numbers are sort
 2. Refer to program and write 3 numbers 
 
 ### Sample:
-`/FirstProject 4 6 7`
+`C:/../FirstProject 4 6 7`

@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://i.ibb.co/vv8bqZc/repository-open-graph-template.png">
+</p>
+
 # Silesian University of Technology #TriangleChecker 
 Project created as homework for The Silesian University Of Technology.
 **
